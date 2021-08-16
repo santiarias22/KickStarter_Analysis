@@ -1,3 +1,6 @@
+[KickStarter_Challenge.xlsx](https://github.com/santiarias22/KickStarter_Analysis/files/6989739/KickStarter_Challenge.xlsx)
+<img width="617" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/88511476/129510847-0eafc772-9fa3-49dc-93e1-cc5e330f47af.png">
+<img width="329" alt="Theather_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/88511476/129510848-ced0e597-aa49-46b9-b4a2-ee72425d2573.png">
 # KickStarter_Analysis
 ## Challenge_Module_1
 ### Overview of the Project
